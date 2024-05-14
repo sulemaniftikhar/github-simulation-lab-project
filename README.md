@@ -59,3 +59,35 @@ For any inquiries or support regarding this project, feel free to contact the ma
 We appreciate your interest and support!
 
 ---
+
+## Screenshots
+
+![Screenshot 1](images/img1.jpeg)  
+*Log-in and Sign-up Page*
+
+---
+
+![Screenshot 2](images/img2.jpeg)  
+*Main Interface*
+
+---
+
+![Screenshot 3](images/img3.jpeg)  
+*User Repositories*
+
+---
+
+![Screenshot 4](images/img4.jpeg)  
+*Creating Repository*
+
+---
+
+![Screenshot 5](images/img5.jpeg)  
+*Searching Repository*
+
+---
+
+![Screenshot 6](images/img6.jpeg)  
+*User's Data Base*
+
+---
