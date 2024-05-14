@@ -11,8 +11,7 @@ This project is a basic GUI-based simulation of GitHub using C++ and Windows For
 
 - **User Authentication**: Users can log in with their credentials to access their GitHub account.
 - **Repository Management**: Create, clone, fork, and manage repositories.
-- **Commit and Push**: Make commits and push changes to repositories.
-- **Pull Requests**: Create and manage pull requests for collaborative development.
+- **Commit**: Make commits and push changes to repositories.
 - **Branch Management**: Create, switch, and manage branches within repositories.
 
 ## Prerequisites
