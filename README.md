@@ -52,8 +52,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or support regarding this project, feel free to contact the maintainers:
 
-- [Muhammad Zamil Khalid](f223266@cfd.nu.edu.pk)
-- [Muhammad Suleman](f223350@cfd.nu.edu.pk)
+- [Muhammad Zamil Khalid](https://github.com/iamZamil)
+- [Muhammad Suleman](https://github.com/sulemaniftikhar)
 - [Tayyaba Javed](f223413@cfd.nu.edu.pk)
 
 We appreciate your interest and support!
